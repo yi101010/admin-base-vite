@@ -4,7 +4,7 @@ import { Header } from "../header";
 import { Footer } from "../footer";
 import { Contents } from "../contents";
 
-export const Template = memo(({ children }: { children?: ReactNode }) => {
+export const MainLayout = memo(({ children }: { children?: ReactNode }) => {
   // ドロワー開閉ステータス
   const [open, setOpen] = useState(true);
   // ドロワー開閉切り替え
