@@ -1,11 +1,11 @@
 import { memo } from "react";
 import { MainLayout } from "../../components";
-import { Home } from "./components";
+import { Dashboard } from "./components";
 
-export const HomePage = memo(() => {
+export const DashboardPage = memo(() => {
   return (
     <MainLayout>
-      <Home />
+      <Dashboard />
     </MainLayout>
   );
 });

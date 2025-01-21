@@ -1,5 +1,6 @@
 import HomeIcon from '@mui/icons-material/Home';
 import BarChartIcon from '@mui/icons-material/BarChart';
+import StorageIcon from '@mui/icons-material/Storage';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import HelpIcon from '@mui/icons-material/Help';
 import SettingsIcon from '@mui/icons-material/Settings';
@@ -14,6 +15,11 @@ export const SIDE_LINKS_TOP = [
     path: "/dashboard/",
     name: "Dashboard",
     icon: BarChartIcon,
+  },
+  {
+    path: "/master/",
+    name: "Master",
+    icon: StorageIcon,
   },
   {
     path: "/alert/",

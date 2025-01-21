@@ -1,11 +1,38 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { ROUTES } from "./constants";
-import { HomePage } from "./pages";
+import {
+  AlertPage,
+  DashboardPage,
+  HelpPage,
+  HomePage,
+  MasterPage,
+  SettingsPage,
+} from "./pages";
 
 const router = createBrowserRouter([
   {
     path: ROUTES.HOME,
     element: <HomePage />,
+  },
+  {
+    path: ROUTES.DASHBOARD,
+    element: <DashboardPage />,
+  },
+  {
+    path: ROUTES.MASTER,
+    element: <MasterPage />,
+  },
+  {
+    path: ROUTES.ALERT,
+    element: <AlertPage />,
+  },
+  {
+    path: ROUTES.HELP,
+    element: <HelpPage />,
+  },
+  {
+    path: ROUTES.SETTINGS,
+    element: <SettingsPage />,
   },
 ]);
 
