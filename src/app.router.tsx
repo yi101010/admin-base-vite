@@ -1,4 +1,8 @@
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import {
+  createBrowserRouter,
+  Navigate,
+  RouterProvider,
+} from "react-router-dom";
 import { ROUTES } from "./constants";
 import {
   AlertPage,
@@ -6,6 +10,7 @@ import {
   HelpPage,
   HomePage,
   MasterPage,
+  NotFoundPage,
   SettingsPage,
 } from "./pages";
 
@@ -33,6 +38,14 @@ const router = createBrowserRouter([
   {
     path: ROUTES.SETTINGS,
     element: <SettingsPage />,
+  },
+  {
+    path: ROUTES.NOTFOUND,
+    element: <NotFoundPage />,
+  },
+  {
+    path: "*",
+    element: <Navigate replace to={ROUTES.NOTFOUND} />,
   },
 ]);
 

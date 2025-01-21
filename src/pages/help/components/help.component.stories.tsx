@@ -1,7 +1,7 @@
 import { Help } from ".";
 
 export default {
-  title: "Pages/Alert",
+  title: "Pages/Help",
   component: Help,
 };
 
