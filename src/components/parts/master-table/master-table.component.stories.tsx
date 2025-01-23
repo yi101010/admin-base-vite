@@ -1,75 +1,18 @@
-import { Tab, TabList, TabPanel, Tabs, Typography } from "@mui/joy";
-import { memo } from "react";
-import {
-  DataGrid,
-  GridCellParams,
-  GridColDef,
-  GridRowsProp,
-} from "@mui/x-data-grid";
-import { Chip } from "@mui/material";
-import { SparkLineChart } from "@mui/x-charts/SparkLineChart";
+import { GridColDef, GridRowsProp } from "@mui/x-data-grid";
+import { MasterTable } from ".";
 
-type SparkLineData = number[];
+export default {
+  title: "Parts/MasterTable",
+  component: MasterTable,
+};
 
-function renderStatus(status: "Online" | "Offline") {
-  const colors: { [index: string]: "success" | "default" } = {
-    Online: "success",
-    Offline: "default",
-  };
-
-  return <Chip label={status} color={colors[status]} size="small" />;
-}
-
-function getDaysInMonth(month: number, year: number) {
-  const date = new Date(year, month, 0);
-  const monthName = date.toLocaleDateString("en-US", {
-    month: "short",
-  });
-  const daysInMonth = date.getDate();
-  const days = [];
-  let i = 1;
-  while (days.length < daysInMonth) {
-    days.push(`${monthName} ${i}`);
-    i += 1;
-  }
-  return days;
-}
-
-function renderSparklineCell(params: GridCellParams<SparkLineData, any>) {
-  const data = getDaysInMonth(4, 2024);
-  const { value, colDef } = params;
-
-  if (!value || value.length === 0) {
-    return null;
-  }
-
-  return (
-    <div style={{ display: "flex", alignItems: "center", height: "100%" }}>
-      <SparkLineChart
-        data={value}
-        width={colDef.computedWidth || 100}
-        height={32}
-        plotType="bar"
-        showHighlight
-        showTooltip
-        colors={["hsl(210, 98%, 42%)"]}
-        xAxis={{
-          scaleType: "band",
-          data,
-        }}
-      />
-    </div>
-  );
-}
-
-export const columns: GridColDef[] = [
+const columns: GridColDef[] = [
   { field: "pageTitle", headerName: "Page Title", flex: 1.5, minWidth: 200 },
   {
     field: "status",
     headerName: "Status",
     flex: 0.5,
     minWidth: 80,
-    renderCell: (params) => renderStatus(params.value as any),
   },
   {
     field: "users",
@@ -108,11 +51,10 @@ export const columns: GridColDef[] = [
     headerName: "Daily Conversions",
     flex: 1,
     minWidth: 150,
-    renderCell: renderSparklineCell,
   },
 ];
 
-export const rows: GridRowsProp = [
+const rows: GridRowsProp = [
   {
     id: 1,
     pageTitle: "Homepage Overview",
@@ -634,71 +576,6 @@ export const rows: GridRowsProp = [
   },
 ];
 
-export default function CustomizedDataGrid() {
-  return (
-    <DataGrid
-      checkboxSelection
-      rows={rows}
-      columns={columns}
-      getRowClassName={(params) =>
-        params.indexRelativeToCurrentPage % 2 === 0 ? "even" : "odd"
-      }
-      initialState={{
-        pagination: { paginationModel: { pageSize: 20 } },
-      }}
-      pageSizeOptions={[10, 20, 50]}
-      disableColumnResize
-      density="compact"
-      slotProps={{
-        filterPanel: {
-          filterFormProps: {
-            logicOperatorInputProps: {
-              variant: "outlined",
-              size: "small",
-            },
-            columnInputProps: {
-              variant: "outlined",
-              size: "small",
-              sx: { mt: "auto" },
-            },
-            operatorInputProps: {
-              variant: "outlined",
-              size: "small",
-              sx: { mt: "auto" },
-            },
-            valueInputProps: {
-              InputComponentProps: {
-                variant: "outlined",
-                size: "small",
-              },
-            },
-          },
-        },
-      }}
-    />
-  );
-}
-
-export const Master = memo(() => {
-  return (
-    <>
-      <Typography level="h1">Master</Typography>
-      <Tabs>
-        <TabList>
-          <Tab>First tab</Tab>
-          <Tab>Second tab</Tab>
-          <Tab>Third tab</Tab>
-        </TabList>
-        <TabPanel value={0}>
-          <CustomizedDataGrid />
-        </TabPanel>
-        <TabPanel value={1}>
-          <b>Second</b> tab panel
-        </TabPanel>
-        <TabPanel value={2}>
-          <b>Third</b> tab panel
-        </TabPanel>
-      </Tabs>
-    </>
-  );
-});
+export const Basic = () => {
+  return <MasterTable columns={columns} rows={rows} />;
+};

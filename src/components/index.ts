@@ -1,1 +1,1 @@
-export * from "./core/main-layout";
+export * from "./core";
