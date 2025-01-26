@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "itemCode": "ITEM001",
+    "itemName": "Networked well-modulated instruction set",
+    "cost": 2470,
+    "updatedBy": "greenwilliam",
+    "moodifiedDate": "2024-06-29"
+  },
+  {
+    "id": 2,
+    "itemCode": "ITEM002",
+    "itemName": "Innovative mission-critical help-desk",
+    "cost": 2913,
+    "updatedBy": "williamcampbell",
+    "moodifiedDate": "2024-11-12"
+  },
+  {
+    "id": 3,
+    "itemCode": "ITEM003",
+    "itemName": "Cross-platform regional website",
+    "cost": 3037,
+    "updatedBy": "vanessa89",
+    "moodifiedDate": "2025-01-08"
+  },
+  {
+    "id": 4,
+    "itemCode": "ITEM004",
+    "itemName": "Digitized fault-tolerant attitude",
+    "cost": 3918,
+    "updatedBy": "nolangabriella",
+    "moodifiedDate": "2024-07-25"
+  },
+  {
+    "id": 5,
+    "itemCode": "ITEM005",
+    "itemName": "Realigned bandwidth-monitored help-desk",
+    "cost": 2024,
+    "updatedBy": "ostewart",
+    "moodifiedDate": "2025-01-12"
+  },
+  {
+    "id": 6,
+    "itemCode": "ITEM006",
+    "itemName": "Expanded neutral matrices",
+    "cost": 4244,
+    "updatedBy": "qgrimes",
+    "moodifiedDate": "2024-02-17"
+  },
+  {
+    "id": 7,
+    "itemCode": "ITEM007",
+    "itemName": "Reactive 24/7 array",
+    "cost": 4305,
+    "updatedBy": "ypage",
+    "moodifiedDate": "2024-10-09"
+  },
+  {
+    "id": 8,
+    "itemCode": "ITEM008",
+    "itemName": "Self-enabling 24hour pricing structure",
+    "cost": 2011,
+    "updatedBy": "vclayton",
+    "moodifiedDate": "2024-04-27"
+  },
+  {
+    "id": 9,
+    "itemCode": "ITEM009",
+    "itemName": "Upgradable fresh-thinking strategy",
+    "cost": 1217,
+    "updatedBy": "leeashley",
+    "moodifiedDate": "2024-04-25"
+  },
+  {
+    "id": 10,
+    "itemCode": "ITEM010",
+    "itemName": "Digitized needs-based knowledge user",
+    "cost": 2958,
+    "updatedBy": "millerluke",
+    "moodifiedDate": "2024-08-08"
+  },
+  {
+    "id": 11,
+    "itemCode": "ITEM011",
+    "itemName": "Pre-emptive bi-directional framework",
+    "cost": 4578,
+    "updatedBy": "jasmine85",
+    "moodifiedDate": "2024-12-05"
+  },
+  {
+    "id": 12,
+    "itemCode": "ITEM012",
+    "itemName": "Quality-focused demand-driven website",
+    "cost": 3766,
+    "updatedBy": "sean96",
+    "moodifiedDate": "2024-05-26"
+  },
+  {
+    "id": 13,
+    "itemCode": "ITEM013",
+    "itemName": "Re-engineered disintermediate frame",
+    "cost": 3240,
+    "updatedBy": "jaimelopez",
+    "moodifiedDate": "2024-09-17"
+  },
+  {
+    "id": 14,
+    "itemCode": "ITEM014",
+    "itemName": "Switchable empowering leverage",
+    "cost": 2955,
+    "updatedBy": "daviskatherine",
+    "moodifiedDate": "2024-12-29"
+  },
+  {
+    "id": 15,
+    "itemCode": "ITEM015",
+    "itemName": "Distributed 5thgeneration artificial intelligence",
+    "cost": 2847,
+    "updatedBy": "hmassey",
+    "moodifiedDate": "2024-05-10"
+  },
+  {
+    "id": 16,
+    "itemCode": "ITEM016",
+    "itemName": "Programmable disintermediate data-warehouse",
+    "cost": 4360,
+    "updatedBy": "criley",
+    "moodifiedDate": "2024-08-02"
+  },
+  {
+    "id": 17,
+    "itemCode": "ITEM017",
+    "itemName": "Switchable secondary standardization",
+    "cost": 3404,
+    "updatedBy": "christopher91",
+    "moodifiedDate": "2024-07-30"
+  },
+  {
+    "id": 18,
+    "itemCode": "ITEM018",
+    "itemName": "Reverse-engineered responsive groupware",
+    "cost": 1509,
+    "updatedBy": "johndennis",
+    "moodifiedDate": "2024-03-09"
+  },
+  {
+    "id": 19,
+    "itemCode": "ITEM019",
+    "itemName": "Triple-buffered directional hub",
+    "cost": 2566,
+    "updatedBy": "marvincabrera",
+    "moodifiedDate": "2024-03-03"
+  },
+  {
+    "id": 20,
+    "itemCode": "ITEM020",
+    "itemName": "Digitized tangible definition",
+    "cost": 4585,
+    "updatedBy": "montoyacynthia",
+    "moodifiedDate": "2025-01-21"
+  },
+  {
+    "id": 21,
+    "itemCode": "ITEM021",
+    "itemName": "Public-key real-time software",
+    "cost": 1850,
+    "updatedBy": "johnsoncynthia",
+    "moodifiedDate": "2024-09-15"
+  },
+  {
+    "id": 22,
+    "itemCode": "ITEM022",
+    "itemName": "Re-engineered bottom-line infrastructure",
+    "cost": 2409,
+    "updatedBy": "woodtina",
+    "moodifiedDate": "2024-02-07"
+  },
+  {
+    "id": 23,
+    "itemCode": "ITEM023",
+    "itemName": "Robust 3rdgeneration core",
+    "cost": 3245,
+    "updatedBy": "jennifermendoza",
+    "moodifiedDate": "2024-11-01"
+  },
+  {
+    "id": 24,
+    "itemCode": "ITEM024",
+    "itemName": "Centralized systematic adapter",
+    "cost": 3395,
+    "updatedBy": "qoliver",
+    "moodifiedDate": "2024-02-20"
+  },
+  {
+    "id": 25,
+    "itemCode": "ITEM025",
+    "itemName": "Face-to-face asynchronous project",
+    "cost": 3820,
+    "updatedBy": "michael20",
+    "moodifiedDate": "2024-08-06"
+  },
+  {
+    "id": 26,
+    "itemCode": "ITEM026",
+    "itemName": "Persistent 6thgeneration policy",
+    "cost": 3835,
+    "updatedBy": "lyonspeter",
+    "moodifiedDate": "2024-05-04"
+  },
+  {
+    "id": 27,
+    "itemCode": "ITEM027",
+    "itemName": "Multi-channeled upward-trending leverage",
+    "cost": 3465,
+    "updatedBy": "heidiharris",
+    "moodifiedDate": "2024-11-17"
+  },
+  {
+    "id": 28,
+    "itemCode": "ITEM028",
+    "itemName": "Centralized zero tolerance service-desk",
+    "cost": 4671,
+    "updatedBy": "meganpeterson",
+    "moodifiedDate": "2024-04-30"
+  },
+  {
+    "id": 29,
+    "itemCode": "ITEM029",
+    "itemName": "Decentralized radical intranet",
+    "cost": 4752,
+    "updatedBy": "alexandermaldonado",
+    "moodifiedDate": "2025-01-07"
+  },
+  {
+    "id": 30,
+    "itemCode": "ITEM030",
+    "itemName": "Re-contextualized multimedia function",
+    "cost": 3552,
+    "updatedBy": "paul42",
+    "moodifiedDate": "2024-08-28"
+  },
+  {
+    "id": 31,
+    "itemCode": "ITEM031",
+    "itemName": "Team-oriented 24/7 knowledgebase",
+    "cost": 3505,
+    "updatedBy": "rogersbrandon",
+    "moodifiedDate": "2024-05-12"
+  },
+  {
+    "id": 32,
+    "itemCode": "ITEM032",
+    "itemName": "Devolved disintermediate task-force",
+    "cost": 3541,
+    "updatedBy": "sbell",
+    "moodifiedDate": "2024-10-11"
+  },
+  {
+    "id": 33,
+    "itemCode": "ITEM033",
+    "itemName": "Multi-channeled optimizing productivity",
+    "cost": 1683,
+    "updatedBy": "jenniferhughes",
+    "moodifiedDate": "2024-07-02"
+  },
+  {
+    "id": 34,
+    "itemCode": "ITEM034",
+    "itemName": "Streamlined attitude-oriented ability",
+    "cost": 4246,
+    "updatedBy": "hollymoore",
+    "moodifiedDate": "2024-04-19"
+  },
+  {
+    "id": 35,
+    "itemCode": "ITEM035",
+    "itemName": "Sharable local implementation",
+    "cost": 4150,
+    "updatedBy": "sjohnson",
+    "moodifiedDate": "2024-08-31"
+  },
+  {
+    "id": 36,
+    "itemCode": "ITEM036",
+    "itemName": "Operative zero administration protocol",
+    "cost": 3339,
+    "updatedBy": "martincaleb",
+    "moodifiedDate": "2024-10-22"
+  },
+  {
+    "id": 37,
+    "itemCode": "ITEM037",
+    "itemName": "Diverse local moderator",
+    "cost": 3154,
+    "updatedBy": "modonnell",
+    "moodifiedDate": "2024-11-12"
+  },
+  {
+    "id": 38,
+    "itemCode": "ITEM038",
+    "itemName": "Adaptive 5thgeneration methodology",
+    "cost": 3603,
+    "updatedBy": "larry70",
+    "moodifiedDate": "2024-12-03"
+  },
+  {
+    "id": 39,
+    "itemCode": "ITEM039",
+    "itemName": "Operative content-based neural-net",
+    "cost": 1047,
+    "updatedBy": "monroedavid",
+    "moodifiedDate": "2024-01-29"
+  },
+  {
+    "id": 40,
+    "itemCode": "ITEM040",
+    "itemName": "Open-architected systematic instruction set",
+    "cost": 3731,
+    "updatedBy": "aaron00",
+    "moodifiedDate": "2024-12-08"
+  },
+  {
+    "id": 41,
+    "itemCode": "ITEM041",
+    "itemName": "Synergistic multi-tasking pricing structure",
+    "cost": 2624,
+    "updatedBy": "leecharlene",
+    "moodifiedDate": "2024-04-10"
+  },
+  {
+    "id": 42,
+    "itemCode": "ITEM042",
+    "itemName": "Innovative even-keeled solution",
+    "cost": 4104,
+    "updatedBy": "craignash",
+    "moodifiedDate": "2024-06-26"
+  },
+  {
+    "id": 43,
+    "itemCode": "ITEM043",
+    "itemName": "Self-enabling attitude-oriented adapter",
+    "cost": 3714,
+    "updatedBy": "robin14",
+    "moodifiedDate": "2024-03-15"
+  },
+  {
+    "id": 44,
+    "itemCode": "ITEM044",
+    "itemName": "Streamlined multi-state projection",
+    "cost": 3754,
+    "updatedBy": "darin24",
+    "moodifiedDate": "2024-12-19"
+  },
+  {
+    "id": 45,
+    "itemCode": "ITEM045",
+    "itemName": "Ameliorated 6thgeneration analyzer",
+    "cost": 2536,
+    "updatedBy": "eringrant",
+    "moodifiedDate": "2024-06-14"
+  },
+  {
+    "id": 46,
+    "itemCode": "ITEM046",
+    "itemName": "Re-contextualized 6thgeneration synergy",
+    "cost": 4657,
+    "updatedBy": "djoseph",
+    "moodifiedDate": "2024-09-28"
+  },
+  {
+    "id": 47,
+    "itemCode": "ITEM047",
+    "itemName": "Optional holistic monitoring",
+    "cost": 1560,
+    "updatedBy": "jaredmatthews",
+    "moodifiedDate": "2024-01-27"
+  },
+  {
+    "id": 48,
+    "itemCode": "ITEM048",
+    "itemName": "Devolved coherent flexibility",
+    "cost": 2157,
+    "updatedBy": "matthew51",
+    "moodifiedDate": "2024-06-03"
+  },
+  {
+    "id": 49,
+    "itemCode": "ITEM049",
+    "itemName": "Vision-oriented regional alliance",
+    "cost": 3380,
+    "updatedBy": "nelsonedward",
+    "moodifiedDate": "2024-09-06"
+  },
+  {
+    "id": 50,
+    "itemCode": "ITEM050",
+    "itemName": "Implemented high-level infrastructure",
+    "cost": 4833,
+    "updatedBy": "kellywoods",
+    "moodifiedDate": "2024-04-26"
+  },
+  {
+    "id": 51,
+    "itemCode": "ITEM051",
+    "itemName": "Business-focused fault-tolerant conglomeration",
+    "cost": 1995,
+    "updatedBy": "turnermary",
+    "moodifiedDate": "2024-05-19"
+  },
+  {
+    "id": 52,
+    "itemCode": "ITEM052",
+    "itemName": "Operative bi-directional attitude",
+    "cost": 2886,
+    "updatedBy": "zwells",
+    "moodifiedDate": "2024-12-04"
+  },
+  {
+    "id": 53,
+    "itemCode": "ITEM053",
+    "itemName": "Mandatory bottom-line matrices",
+    "cost": 4245,
+    "updatedBy": "lyonsronald",
+    "moodifiedDate": "2024-05-20"
+  },
+  {
+    "id": 54,
+    "itemCode": "ITEM054",
+    "itemName": "Managed user-facing software",
+    "cost": 2542,
+    "updatedBy": "samanthasims",
+    "moodifiedDate": "2024-06-17"
+  },
+  {
+    "id": 55,
+    "itemCode": "ITEM055",
+    "itemName": "Sharable background architecture",
+    "cost": 1190,
+    "updatedBy": "gonzalezjeffrey",
+    "moodifiedDate": "2024-06-21"
+  },
+  {
+    "id": 56,
+    "itemCode": "ITEM056",
+    "itemName": "Advanced bandwidth-monitored infrastructure",
+    "cost": 3358,
+    "updatedBy": "shane79",
+    "moodifiedDate": "2024-10-27"
+  },
+  {
+    "id": 57,
+    "itemCode": "ITEM057",
+    "itemName": "Synergistic didactic interface",
+    "cost": 3517,
+    "updatedBy": "richardsonvanessa",
+    "moodifiedDate": "2024-05-04"
+  },
+  {
+    "id": 58,
+    "itemCode": "ITEM058",
+    "itemName": "Reduced zero-defect concept",
+    "cost": 2182,
+    "updatedBy": "hlee",
+    "moodifiedDate": "2024-02-17"
+  },
+  {
+    "id": 59,
+    "itemCode": "ITEM059",
+    "itemName": "Total 4thgeneration moderator",
+    "cost": 4338,
+    "updatedBy": "mgoodwin",
+    "moodifiedDate": "2024-03-10"
+  },
+  {
+    "id": 60,
+    "itemCode": "ITEM060",
+    "itemName": "Proactive hybrid extranet",
+    "cost": 3987,
+    "updatedBy": "danielleshea",
+    "moodifiedDate": "2024-11-28"
+  },
+  {
+    "id": 61,
+    "itemCode": "ITEM061",
+    "itemName": "Extended regional circuit",
+    "cost": 3064,
+    "updatedBy": "gonzaleznicholas",
+    "moodifiedDate": "2024-08-23"
+  },
+  {
+    "id": 62,
+    "itemCode": "ITEM062",
+    "itemName": "Distributed bi-directional policy",
+    "cost": 1087,
+    "updatedBy": "zhernandez",
+    "moodifiedDate": "2024-09-27"
+  },
+  {
+    "id": 63,
+    "itemCode": "ITEM063",
+    "itemName": "Synergized interactive model",
+    "cost": 3789,
+    "updatedBy": "ushelton",
+    "moodifiedDate": "2024-12-12"
+  },
+  {
+    "id": 64,
+    "itemCode": "ITEM064",
+    "itemName": "Proactive modular productivity",
+    "cost": 3764,
+    "updatedBy": "amyvelazquez",
+    "moodifiedDate": "2024-01-27"
+  },
+  {
+    "id": 65,
+    "itemCode": "ITEM065",
+    "itemName": "Mandatory tertiary synergy",
+    "cost": 3378,
+    "updatedBy": "lisa08",
+    "moodifiedDate": "2024-03-21"
+  },
+  {
+    "id": 66,
+    "itemCode": "ITEM066",
+    "itemName": "Function-based real-time toolset",
+    "cost": 2768,
+    "updatedBy": "meganaguilar",
+    "moodifiedDate": "2024-10-28"
+  },
+  {
+    "id": 67,
+    "itemCode": "ITEM067",
+    "itemName": "Triple-buffered methodical architecture",
+    "cost": 3860,
+    "updatedBy": "blackruth",
+    "moodifiedDate": "2024-02-18"
+  },
+  {
+    "id": 68,
+    "itemCode": "ITEM068",
+    "itemName": "Face-to-face clear-thinking analyzer",
+    "cost": 1450,
+    "updatedBy": "alexis75",
+    "moodifiedDate": "2024-12-23"
+  },
+  {
+    "id": 69,
+    "itemCode": "ITEM069",
+    "itemName": "Diverse coherent projection",
+    "cost": 4828,
+    "updatedBy": "gschmitt",
+    "moodifiedDate": "2024-06-20"
+  },
+  {
+    "id": 70,
+    "itemCode": "ITEM070",
+    "itemName": "Progressive motivating alliance",
+    "cost": 3678,
+    "updatedBy": "gregorylinda",
+    "moodifiedDate": "2024-11-13"
+  },
+  {
+    "id": 71,
+    "itemCode": "ITEM071",
+    "itemName": "Right-sized asynchronous synergy",
+    "cost": 3350,
+    "updatedBy": "nbullock",
+    "moodifiedDate": "2024-05-15"
+  },
+  {
+    "id": 72,
+    "itemCode": "ITEM072",
+    "itemName": "Public-key radical instruction set",
+    "cost": 2373,
+    "updatedBy": "ybruce",
+    "moodifiedDate": "2024-09-15"
+  },
+  {
+    "id": 73,
+    "itemCode": "ITEM073",
+    "itemName": "Reverse-engineered discrete website",
+    "cost": 3396,
+    "updatedBy": "sandovalaaron",
+    "moodifiedDate": "2024-04-03"
+  },
+  {
+    "id": 74,
+    "itemCode": "ITEM074",
+    "itemName": "Innovative motivating open system",
+    "cost": 4834,
+    "updatedBy": "marvin74",
+    "moodifiedDate": "2024-12-09"
+  },
+  {
+    "id": 75,
+    "itemCode": "ITEM075",
+    "itemName": "Innovative zero administration installation",
+    "cost": 1179,
+    "updatedBy": "dpatrick",
+    "moodifiedDate": "2024-03-27"
+  },
+  {
+    "id": 76,
+    "itemCode": "ITEM076",
+    "itemName": "Stand-alone clear-thinking encoding",
+    "cost": 2936,
+    "updatedBy": "jessica50",
+    "moodifiedDate": "2025-01-23"
+  },
+  {
+    "id": 77,
+    "itemCode": "ITEM077",
+    "itemName": "Automated mission-critical instruction set",
+    "cost": 2368,
+    "updatedBy": "travisboyer",
+    "moodifiedDate": "2024-10-28"
+  },
+  {
+    "id": 78,
+    "itemCode": "ITEM078",
+    "itemName": "Configurable systematic standardization",
+    "cost": 2927,
+    "updatedBy": "lisagomez",
+    "moodifiedDate": "2024-02-06"
+  },
+  {
+    "id": 79,
+    "itemCode": "ITEM079",
+    "itemName": "Seamless maximized info-mediaries",
+    "cost": 3775,
+    "updatedBy": "ewilliams",
+    "moodifiedDate": "2024-11-21"
+  },
+  {
+    "id": 80,
+    "itemCode": "ITEM080",
+    "itemName": "Distributed 3rdgeneration alliance",
+    "cost": 2224,
+    "updatedBy": "crystalgarcia",
+    "moodifiedDate": "2024-08-24"
+  },
+  {
+    "id": 81,
+    "itemCode": "ITEM081",
+    "itemName": "Streamlined grid-enabled core",
+    "cost": 4914,
+    "updatedBy": "xlogan",
+    "moodifiedDate": "2024-08-01"
+  },
+  {
+    "id": 82,
+    "itemCode": "ITEM082",
+    "itemName": "Customizable analyzing pricing structure",
+    "cost": 2574,
+    "updatedBy": "vmendez",
+    "moodifiedDate": "2024-10-02"
+  },
+  {
+    "id": 83,
+    "itemCode": "ITEM083",
+    "itemName": "Decentralized systemic structure",
+    "cost": 2244,
+    "updatedBy": "kristina26",
+    "moodifiedDate": "2024-11-29"
+  },
+  {
+    "id": 84,
+    "itemCode": "ITEM084",
+    "itemName": "Implemented value-added software",
+    "cost": 3616,
+    "updatedBy": "stonekristen",
+    "moodifiedDate": "2024-04-06"
+  },
+  {
+    "id": 85,
+    "itemCode": "ITEM085",
+    "itemName": "Automated zero tolerance infrastructure",
+    "cost": 4480,
+    "updatedBy": "mwatson",
+    "moodifiedDate": "2024-07-18"
+  },
+  {
+    "id": 86,
+    "itemCode": "ITEM086",
+    "itemName": "Multi-channeled responsive archive",
+    "cost": 2441,
+    "updatedBy": "wintersbill",
+    "moodifiedDate": "2024-05-02"
+  },
+  {
+    "id": 87,
+    "itemCode": "ITEM087",
+    "itemName": "Assimilated multi-state secured line",
+    "cost": 2270,
+    "updatedBy": "jerryfrank",
+    "moodifiedDate": "2025-01-01"
+  },
+  {
+    "id": 88,
+    "itemCode": "ITEM088",
+    "itemName": "Self-enabling zero-defect middleware",
+    "cost": 1012,
+    "updatedBy": "hhunter",
+    "moodifiedDate": "2024-03-20"
+  },
+  {
+    "id": 89,
+    "itemCode": "ITEM089",
+    "itemName": "Optimized non-volatile interface",
+    "cost": 3544,
+    "updatedBy": "wallsrobert",
+    "moodifiedDate": "2024-03-02"
+  },
+  {
+    "id": 90,
+    "itemCode": "ITEM090",
+    "itemName": "Operative zero-defect collaboration",
+    "cost": 4634,
+    "updatedBy": "moodyryan",
+    "moodifiedDate": "2024-07-03"
+  },
+  {
+    "id": 91,
+    "itemCode": "ITEM091",
+    "itemName": "Assimilated modular Graphic Interface",
+    "cost": 3031,
+    "updatedBy": "christian11",
+    "moodifiedDate": "2024-06-11"
+  },
+  {
+    "id": 92,
+    "itemCode": "ITEM092",
+    "itemName": "Team-oriented 4thgeneration hardware",
+    "cost": 4844,
+    "updatedBy": "gregory35",
+    "moodifiedDate": "2024-02-20"
+  },
+  {
+    "id": 93,
+    "itemCode": "ITEM093",
+    "itemName": "Right-sized client-server database",
+    "cost": 4020,
+    "updatedBy": "harrisemily",
+    "moodifiedDate": "2025-01-22"
+  },
+  {
+    "id": 94,
+    "itemCode": "ITEM094",
+    "itemName": "Decentralized value-added ability",
+    "cost": 1058,
+    "updatedBy": "mike09",
+    "moodifiedDate": "2024-04-23"
+  },
+  {
+    "id": 95,
+    "itemCode": "ITEM095",
+    "itemName": "Digitized contextually-based knowledgebase",
+    "cost": 3303,
+    "updatedBy": "woodsjasmine",
+    "moodifiedDate": "2024-05-03"
+  },
+  {
+    "id": 96,
+    "itemCode": "ITEM096",
+    "itemName": "De-engineered 4thgeneration database",
+    "cost": 1381,
+    "updatedBy": "matthew44",
+    "moodifiedDate": "2025-01-21"
+  },
+  {
+    "id": 97,
+    "itemCode": "ITEM097",
+    "itemName": "Reactive scalable Graphic Interface",
+    "cost": 1286,
+    "updatedBy": "brittanymiller",
+    "moodifiedDate": "2024-08-18"
+  },
+  {
+    "id": 98,
+    "itemCode": "ITEM098",
+    "itemName": "Reduced fault-tolerant complexity",
+    "cost": 4189,
+    "updatedBy": "ihurst",
+    "moodifiedDate": "2024-12-01"
+  },
+  {
+    "id": 99,
+    "itemCode": "ITEM099",
+    "itemName": "Face-to-face foreground migration",
+    "cost": 1006,
+    "updatedBy": "joelwhite",
+    "moodifiedDate": "2024-06-16"
+  },
+  {
+    "id": 100,
+    "itemCode": "ITEM100",
+    "itemName": "Operative stable analyzer",
+    "cost": 4856,
+    "updatedBy": "carolynlong",
+    "moodifiedDate": "2024-10-22"
+  }
+]

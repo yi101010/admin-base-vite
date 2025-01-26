@@ -1,5 +1,5 @@
 import { memo } from "react";
-import { DataGrid } from "@mui/x-data-grid";
+import { DataGrid, GridToolbar } from "@mui/x-data-grid";
 import { MasterTableProps } from "./master-table.interface";
 
 export const MasterTable = memo((props: MasterTableProps) => {
@@ -17,8 +17,8 @@ export const MasterTable = memo((props: MasterTableProps) => {
         pagination: { paginationModel: { pageSize: 20 } },
       }}
       pageSizeOptions={[10, 20, 50]}
-      disableColumnResize
       density="compact"
+      slots={{ toolbar: GridToolbar }}
       slotProps={{
         filterPanel: {
           filterFormProps: {

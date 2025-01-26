@@ -134,7 +134,7 @@ export const Contents = memo((props: ContentsProps) => {
         }}
       >
         <Toolbar variant="dense" />
-        <Container maxWidth="lg">{children}</Container>
+        <Container maxWidth={false}>{children}</Container>
       </Box>
     </>
   );
